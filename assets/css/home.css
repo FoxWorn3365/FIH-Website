@@ -1,0 +1,109 @@
+.mainVideoDiv {
+  position: relative;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background: #202857;
+  overflow: hidden;
+  z-index: 0;
+  opacity: .-7;
+}
+
+.fox-center {
+  margin: auto;
+}
+
+.fox-hide-all-par {
+   background-color: white;
+   color: black;
+   position: absolute;
+   width: 100%;
+   left: 0px;
+   z-index: 10;
+}
+
+.fox-aln {
+   position: relative;
+   left: 35px;
+}
+
+.mainVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.fox-main {
+  color: white;
+}
+
+.fox-azienda-promo-div {
+  color: white;
+  align: left;
+  float: left;
+  background-color: #8048d7;
+  border: solid 5px #8048d7;
+  border-radius: 50px;
+  width: 50%;
+  position: relative;
+  left: 50%;
+}
+
+.fox-azienda-promo-div-left {
+  color: black;
+  float: left;
+  background-color: white;
+  border: solid 5px white;
+  border-radius: 50px;
+  width: 50%;
+  position: absolute;
+  top: 45px;
+  left: -1%;
+}
+
+.fox-azienda-prodotti-main {
+  color: white;
+  float: left;
+  background-color: #8048d7;
+  width: 85%;
+  position: relative;
+  top: 75%;
+}
+
+.fox-counter-text {
+  color: black;
+  font-size: 30px;
+  font-family: GothamBold, sans-serif;
+}
+
+.fox-counter {
+  color: #0da4b5;
+  font-size: 35px;
+}
+
+.fox-prodotti {
+  position: absolute;
+}
+
+.btw {
+  position: absolute;
+  text-align: center;
+}
+
+span {
+  font-family:GothamBook, sans-serif;
+  font-size:20px;
+}
+
+p {
+  font-family:GothamBook, sans-serif;
+  font-size:20px;
+}
+
+b {
+  font-family: GothamBold, sans-serif;
+  font-size: 21px;
+}
